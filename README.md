@@ -14,6 +14,7 @@ Experienced Software Engineer with a solid background in Information Technology 
 A full-stack POC that supports products for Small Business owners: SmartBooks (FB) for Accounting, SB Payroll, SB Payments, and SSheets for time-tracking. Customers can subscribe to any/all of the products, maintaining a shared business profile across all. The Business Profile service ensures that every profile Create/Update request is approved by all the subscribed products of the user via REST API validation.
 
 **Dependent Microservices:**
+
 **Backend**
 These services handle the backend logic, data persistence, and configuration management for the business profile service.
 - [crafts-demo-profile-crud-service](https://github.com/arpan-banerjee7/crafts-demo-profile-crud-service)
